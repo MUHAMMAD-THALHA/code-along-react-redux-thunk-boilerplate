@@ -1,5 +1,5 @@
 import React from 'react';
-import { fetchData } from './utils/redux/action';
+import { fetchData } from './utils/action';
 import { useDispatch, useSelector } from 'react-redux';
 
 const App = () => {
